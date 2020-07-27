@@ -1,0 +1,1 @@
+ls 'C:\Users\vince\source\repos\VXEToolkit\crunch*' -R|?{$_.Name -match '.*$'}|ii
