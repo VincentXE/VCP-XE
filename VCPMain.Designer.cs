@@ -1,6 +1,6 @@
 ﻿namespace VXEToolkit
 {
-    partial class Form1
+    partial class VCPMain
     {
         /// <summary>
         /// Required designer variable.

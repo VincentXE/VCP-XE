@@ -12,9 +12,9 @@ using System.Diagnostics;
 
 namespace VXEToolkit
 {
-    public partial class Form1 : Form
+    public partial class VCPMain : Form
     {
-        public Form1()
+        public VCPMain()
         {
             InitializeComponent();
         }
